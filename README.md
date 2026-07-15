@@ -25,7 +25,7 @@ I am a B.Sc. Computer Engineering student at RWTH Aachen, working torwards becom
 </li>
 
 You are free to reach me out to chat, invite me to help on working on project ideas or give feedback on current projects I am working on!!
-E-mail: mailto:bernardo.hakme04@gmail.com
+E-mail: bernardo.hakme04@gmail.com (mailto:bernardo.hakme04@gmail.com)
 
 ### Certificates:
 
