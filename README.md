@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 I am a B.Sc. Computer Engineering student at RWTH Aachen, working torwards becoming a developer.
 
 ### 🔭 Topics I am currently exploring:
-<li>
-  <ul>Game Dev (C++)</ul>
-  <ul>Desktop Dev (C++)</ul>
-  <ul>Web Dev (Typescript)</ul>
-  <ul>Machine Learning (Python)</ul>
-</li>
+<ul>
+  <li>Game Dev (C++)</li>
+  <li>Desktop Dev (C++)</li>
+  <li>Web Dev (Typescript)</li>
+  <li>Machine Learning (Python)</li>
+</ul>
 
 You are free to reach me out to chat, invite me to help on working on project ideas or give feedback on current projects I am working on!!
 E-mail: bernardo.hakme04@gmail.com
